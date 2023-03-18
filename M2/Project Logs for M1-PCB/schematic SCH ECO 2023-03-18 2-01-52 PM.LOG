@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Transformer 1 Old Footprint=Transformer New Footprint=78931812515
+Change Component Footprint: Designator=Transformer 2 Old Footprint=WE Transformer New Footprint=78931812515
+Change Component Comment: Designator=Transformer 2 Old Comment=78931812515 New Comment=Comment
+Change Component Comment: Designator=Transformer 1 Old Comment=78931812518 New Comment=Comment

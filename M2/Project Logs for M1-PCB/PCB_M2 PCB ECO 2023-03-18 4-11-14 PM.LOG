@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Q1 Old Footprint=ONSC-TO-92-3-29-11 New Footprint=Transistor
+Change Component Comment : Designator=Q1 Old Comment=BS170 New Comment=MOSFET-N
+Added Room: Name=schematic
