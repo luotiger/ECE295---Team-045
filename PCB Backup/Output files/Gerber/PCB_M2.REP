@@ -2,6 +2,19 @@
 FileName = PCB_M2.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 20
+      File : PCB_M2.GM20
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D12
+    D14
+    D58
+*************************************************************
+
+*************************************************************
 Generating : Top Component Center
       File : PCB_M2.GM16
 
@@ -50,28 +63,49 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : PCB_M2.GPB
+Generating : Top Assembly
+      File : PCB_M2.GM5
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Assembly
 
 
 Used DCodes :
-    D37
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : PCB_M2.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : PCB_M2.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D13
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Dimension
+      File : PCB_M2.GM1
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D12
+    D58
 *************************************************************
 
 *************************************************************
@@ -103,88 +137,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Dimension
-      File : PCB_M2.GM1
-
-    Adding Layer      : Dimension
-
-
-Used DCodes :
-    D12
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : PCB_M2.GM2
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
-    D13
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : PCB_M2.GM3
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : PCB_M2.GM5
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : PCB_M2.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D37
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : PCB_M2.GTS
 
@@ -196,7 +148,7 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D19
+    D21
     D23
     D24
     D25
@@ -289,6 +241,31 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Pad Master
+      File : PCB_M2.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : PCB_M2.GBL
 
@@ -317,15 +294,38 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 20
-      File : PCB_M2.GM20
+Generating : Top Layer
+      File : PCB_M2.GTL
 
-    Adding Layer      : Mechanical 20
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D12
-    D14
-    D58
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D37
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
 *************************************************************
 

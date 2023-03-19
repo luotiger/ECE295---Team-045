@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: \\VSRV1\B.Homes$\luotiger\Desktop\ECE295---Team-045-M2PCB\M2\PCB_M2.PcbDoc
+DRC Rules Export File for PCB: W:\ECE295\ECE295---Team-045\PCB Backup\PCB_M2.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
